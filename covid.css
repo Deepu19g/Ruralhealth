@@ -1,4 +1,27 @@
-.h1{
-    text-align: center;
-    color: aliceblue;
+body{
+    background: rgba(120, 23, 23, 0.7);
+    padding:2% 11%;
 }
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+hr{
+    color:white;
+}
+.subtopic-heading{
+    font-family:"Montserrat:wght@300", cursive;
+    font-size:17px;
+}
+
+.subtopic-content{
+    font-family: serif;
+}
+
+.subtopic{
+    margin-top:40px;
+}
+
