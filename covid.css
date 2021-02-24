@@ -18,13 +18,14 @@ hr{
 }
 .subtopic-heading, h4{
     font-family:"Montserrat:wght@300", cursive;
-    font-size:17px;
+    font-size:23px;
     color: #45a29e;
 }
 
 .subtopic-content{
     font-family: serif;
     color: #c5c6c7;
+    font-size: 20px;
 }
 
 .subtopic{
