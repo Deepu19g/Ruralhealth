@@ -1,27 +1,71 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
-    background: rgba(120, 23, 23, 0.7);
+    background: #1F2833;
     padding:2% 11%;
 }
 
 h1{
+    padding: 3%;
     text-align: center;
-    color: black;
+    color: #66FCF1;
     font-size: 40px;
 }
 
 hr{
-    color:white;
+    color:  #66fcf1;
 }
-.subtopic-heading{
+.subtopic-heading, h4{
     font-family:"Montserrat:wght@300", cursive;
     font-size:17px;
+    color: #45a29e;
 }
 
 .subtopic-content{
     font-family: serif;
+    color: #c5c6c7;
 }
 
 .subtopic{
     margin-top:40px;
+    padding: 2%;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #66fcf1;
+}
+
+#casevsrecovery, #totalfigure {
+    display: block;
+    margin:0 auto;
+    width: 70%;
+}
+
+#statewise, #mask {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+h6{
+    font-size: 30px;
+    text-align: center;
+    color: #66FCF1;    
+}
+
+h5{
+    text-decoration: none;
+    color: #66fcf1;
+    text-align: right;
+}
