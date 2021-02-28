@@ -1,3 +1,9 @@
+body{
+  background-color: #0eb7eb !important;
+}
+#h{
+  color: white;
+}
 h1
 {
 color: rgb(135, 187, 233);
@@ -18,19 +24,21 @@ img {
     width: 85%;
     top:250px;
     text-align: center;
-    left:100px
+    left:100px;
+    background-color: white;
   }
   
   #vacc td, #vacc th {
-    border: 1px solid #ddd;
+    border: 1px solid;
     padding: 8px;
   }
   #vacc th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
-    background-color:  rgb(135, 187, 233);;
-    color: white;
+    color: black;
+    background-color: white;
+
   }
 
 @media only screen and (max-width: 700px)

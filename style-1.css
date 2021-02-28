@@ -1,28 +1,33 @@
-/*Styles for index-1.html*/
-	
 body{
 	height: 100vh;
-	background-image: url(cover.jpg);
+	background: #0eb7eb;
 }	
 #main{
-	background-image: url(background.jpg);
+	background: white;
 	border-radius: 3rem;
 	padding-top: 5%;
 	padding-bottom: 5%;
 }
 #sec{
 	margin-top: 10%;
+	font-size:2rem;
+	margin-bottom: 3%;
 }
+#first{
+	margin-top: 10%;
+}
+a{
+	margin-left:6px;
+	color: black;
+}	
 /*.content{
 		margin-top:50%;
 		font-size: 25px;
 		
 		font-family: 'Gloria Hallelujah', cursive;
 }
-
 .list{
 		margin-top:-15%;
 		margin-left:37%;
 		font-size: 18px;
 }	*/
-
